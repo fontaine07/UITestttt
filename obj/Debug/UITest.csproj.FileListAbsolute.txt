@@ -1,0 +1,12 @@
+C:\Users\ADM\source\repos\UITest\bin\Debug\UITest.exe.config
+C:\Users\ADM\source\repos\UITest\bin\Debug\UITest.exe
+C:\Users\ADM\source\repos\UITest\bin\Debug\UITest.pdb
+C:\Users\ADM\source\repos\UITest\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.FormMainMenu.resources
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.Properties.Resources.resources
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.csproj.GenerateResource.cache
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.csproj.CopyComplete
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.exe
+C:\Users\ADM\source\repos\UITest\obj\Debug\UITest.pdb
